@@ -4,4 +4,6 @@ data/*
 
 .user.ini
 node_modules
-vender
+vendor
+
+composer.lock
