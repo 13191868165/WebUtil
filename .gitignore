@@ -1,0 +1,7 @@
+.idea/*
+.well-known/*
+data/*
+
+.user.ini
+node_modules
+vender
