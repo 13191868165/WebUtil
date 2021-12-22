@@ -13,7 +13,6 @@
 
 namespace WebUtil;
 
-
 class CURLUtil {
     /**
      * GET HTTP Request By Curl
